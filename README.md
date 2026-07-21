@@ -1,1 +1,0 @@
-# swigger-snack-security-fe
